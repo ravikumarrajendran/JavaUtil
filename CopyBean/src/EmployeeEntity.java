@@ -2,6 +2,7 @@
 public class EmployeeEntity {
 	
 	private String name;
+
 	private int emp_Id;
 	private String designation;
 	public String getName() {
